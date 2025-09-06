@@ -6,7 +6,12 @@ A simple Node.js + Express service that provides IFSC code details with caching 
 
 ## Demo
 
-[Live Demo](#)
+[Live Demo](https://ifsc-service-1.onrender.com)
+
+EndPoint : https://ifsc-service-1.onrender.com/ifsc/<IFSC_CODE>
+
+Replace IFSC_CODE with original code.
+
 
 ---
 
